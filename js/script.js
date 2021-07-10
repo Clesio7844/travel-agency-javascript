@@ -12,7 +12,7 @@ window.onscroll = () => {
   searchBar.classList.remove('active');
   menu.classList.remove('fa-times');
   navbar.classList.remove('active');
-  loginForm.classList.add('active');
+  //   loginForm.classList.add('active');
 };
 
 searchBtn.addEventListener('click', () => {
